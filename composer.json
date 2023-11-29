@@ -6,7 +6,6 @@
     "license": "MIT",
     "require": {
         "php": ">=8.0",
-        "phpmailer/phpmailer": "^6.7",
         "vulcanphp/sweetview": "^1.0",
         "vulcanphp/prettyerror": "^1.0",
         "vulcanphp/phprouter": "^1.0",
