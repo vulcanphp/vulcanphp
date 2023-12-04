@@ -2,8 +2,7 @@
 Vulcan PHP is a MVC based micro framework to create PHP Applications easily.
 
 ## What is VulcanPhp
-VulcanPhp is a open-source highly lightweight model-view-controller (MVC) based system. <br />
-to create php application on fly. it is secure and has all the common mechanism to handle a php application.
+VulcanPhp is a open-source, lightweight, and model-view-controller (MVC) based system. it is secure and has all the common mechanism to easily create a php application.
 
 ## Installation
 
