@@ -8,6 +8,7 @@
         "php": ">=8.0",
         "vulcanphp/sweetview": "^1.0",
         "vulcanphp/prettyerror": "^1.0",
+        "vulcanphp/inputmaster": "^1.0",
         "vulcanphp/phprouter": "^1.0",
         "vulcanphp/fastcache": "^1.0",
         "vulcanphp/simpledb": "^1.0",
